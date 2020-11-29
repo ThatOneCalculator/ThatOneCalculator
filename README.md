@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Haxe**
 
-- 👯 I’m collaborating on **[yhe Rosé Pine project!](https://github.com/rose-pine)**
+- 👯 I’m collaborating on **[the Rosé Pine project!](https://github.com/rose-pine)**
 
 - 📫 How to reach me **kainoakanter@gmail.com**
 
