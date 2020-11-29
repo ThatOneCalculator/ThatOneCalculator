@@ -2,7 +2,7 @@
 <h3 align="center">A 17 year old fullstack developer from Cali</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatonecalculator" alt="thatonecalculator" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatonecalculator&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="thatonecalculator" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/that1calculator" target="blank"><img src="https://img.shields.io/twitter/follow/that1calculator?logo=twitter&style=for-the-badge" alt="that1calculator" /></a> </p>
 
