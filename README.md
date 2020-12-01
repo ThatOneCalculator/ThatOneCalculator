@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kainoa!</h1>
-<h3 align="center">A 17 year old fullstack developer from Cali</h3>
+<h3 align="center">A 17 year old fullstack developer from Cali. See my portfolio at https://t1c.dev!</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatonecalculator&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="thatonecalculator" /></a> </p>
