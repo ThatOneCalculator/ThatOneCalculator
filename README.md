@@ -12,7 +12,7 @@
 
 - 👯 I’m collaborating on **[the Rosé Pine project!](https://github.com/rose-pine)**
 
-- 📫 How to reach me **kainoa@t1c.dev**
+- 📫 Send me an email **kainoa@t1c.dev**, tweet at me at **[@That1Calculator](https://twitter.com/thatonecalculator)**, or join **[my Discord!](https://discord.gg/mG94DqX)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
