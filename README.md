@@ -9,7 +9,7 @@
 
 - 👯 I’m collaborating on **[the Rosé Pine project!](https://github.com/rose-pine)**
 
-- 📫 Send me an email **kainoa@t1c.dev**, tweet at me at **[@That1Calculator](https://twitter.com/thatonecalculator)**, or join **[my Discord!](https://discord.gg/mG94DqX)**
+- 📫 Send me an email **kainoa@t1c.dev**, tweet at me at **[@That1Calculator](https://twitter.com/that1calculator)**, or join **[my Discord!](https://discord.gg/mG94DqX)**
 
 <p><img align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatonecalculator&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="thatonecalculator" /></a> </p>
 
