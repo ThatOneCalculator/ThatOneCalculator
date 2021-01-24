@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Kainoa!</h1>
 <h3 align="center">A 17 year old fullstack developer from Cali. See my portfolio at https://t1c.dev!</h3>
 
-<p align="left"> <a href="https://twitter.com/that1calculator" target="blank"><img src="https://img.shields.io/twitter/follow/that1calculator?logo=twitter&style=for-the-badge" alt="that1calculator" /></a> </p>
-<p align="left"> <a href="https://discord.gg/mG94DqX" target="blank"><img src="https://shields.io/badge/join-my%20discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/mG94DqX" /></a> </p>
+<p align="left"> <a href="https://twitter.com/that1calculator" target="blank"><img src="https://img.shields.io/twitter/follow/that1calculator?logo=twitter&style=for-the-badge" alt="that1calculator" /></a> 
+<a href="https://discord.gg/mG94DqX" target="blank"><img src="https://shields.io/badge/join-my%20discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/mG94DqX" /></a> </p>
 
 
 - 🔭 I’m currently working on **multiple Discord bots, featuring [my main bot LiterallyNoBot!](https://top.gg/bot/646156214237003777)**
