@@ -15,9 +15,7 @@
 
 - 📫 Send me an email at **kainoa@t1c.dev**, tweet at me at **[@That1Calculator](https://twitter.com/that1calculator)**, or join **[my Discord!](https://discord.gg/mG94DqX)**
 
-<p><img align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatonecalculator&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="thatonecalculator" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&show_icons=true&locale=en&layout=compact" alt="thatonecalculator" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&show_icons=true&locale=en&layout=compact" alt="thatonecalculator" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en" alt="thatonecalculator" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&" alt="thatonecalculator" /></p> -->
