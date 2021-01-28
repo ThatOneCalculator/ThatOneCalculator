@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kainoa, aka ThatOneCalculator!</h1>
+<h1 align="center">Hi, I'm Kainoa, aka ThatOneCalculator! 👋</h1>
 <h3 align="center">A 17 year old fullstack developer from Cali. See my portfolio at https://t1c.dev!</h3>
 
 <p align="left"> <a href="https://twitter.com/that1calculator" target="blank"><img src="https://img.shields.io/twitter/follow/that1calculator?logo=twitter&style=for-the-badge" alt="that1calculator" /></a> 
