@@ -13,7 +13,10 @@
 
 - 👯 I’m collaborating on **[the Rosé Pine project!](https://github.com/rose-pine)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&show_icons=true&locale=en&layout=compact" alt="thatonecalculator" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en" alt="thatonecalculator" /></p>
+<a href="https://discord.gg/mG94DqX"><p><img align="left" src="https://discord.c99.nl/widget/theme-1/454847501787463680.png" alt="thatonecalculator" /></a>
+
+<a href="https://github.com/ThatOneCalculator/"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&show_icons=true&locale=en&layout=compact" alt="thatonecalculator" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en" alt="thatonecalculator" /></p></a>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&" alt="thatonecalculator" /></p> -->
