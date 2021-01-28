@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/that1calculator" target="blank"><img src="https://img.shields.io/twitter/follow/that1calculator?logo=twitter&style=for-the-badge" alt="that1calculator" /></a> 
 <a href="https://discord.gg/mG94DqX" target="blank"><img src="https://shields.io/badge/join-my%20discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/mG94DqX" /></a> 
-<a href="mailto:kainoa@t1c.dev" target="blank"><img src="https://shields.io/badge/send%20me-email-d44a3c?logo=gmail&style=for-the-badge" alt="kainoa@t1c.dev" /></a> 
+<a href="mailto:kainoa@t1c.dev" target="blank"><img src="https://shields.io/badge/send_me-email-d44a3c?logo=gmail&style=for-the-badge" alt="kainoa@t1c.dev" /></a> 
 </p>
 
 
