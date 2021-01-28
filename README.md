@@ -14,7 +14,7 @@
 - 👯 I’m collaborating on **[the Rosé Pine project!](https://github.com/rose-pine)**
 
 
-<a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-1/454847501787463680.png" alt="thatonecalculator" /></a>
+<a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/454847501787463680.png" alt="thatonecalculator" /></a>
 <br>
 <a href="https://github.com/ThatOneCalculator/"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&show_icons=true&locale=en&layout=compact&theme=onedark" alt="thatonecalculator" />
 
