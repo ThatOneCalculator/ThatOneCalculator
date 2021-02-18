@@ -20,7 +20,7 @@
 <br>
 <a href="https://github.com/ThatOneCalculator/">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&show_icons=true&locale=en&layout=compact&theme=nord" alt="thatonecalculator"/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en&layout=compactz&theme=nord" alt="thatonecalculator"/></p></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en&layout=compactz&theme=nord" alt="thatonecalculator"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&theme=dark&currStreakNumber=748FAC&background=2E3440&border=E4E2E2&ring=748FAC&fire=ECCDA2&currStreakLabel=E4E2E2" alt="streak"/></p>
 </a>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&" alt="thatonecalculator" /></p> -->
