@@ -19,8 +19,8 @@
 <a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discordapp.com/api/guilds/733856096963526667/embed.png?style=banner3" alt="discord"/></a>
 <br>
 <a href="https://github.com/ThatOneCalculator/">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&show_icons=true&locale=en&layout=compact&theme=nord" alt="thatonecalculator"/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en&layout=compactz&theme=nord" alt="thatonecalculator"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&theme=dark&currStreakNumber=748FAC&background=2E3440&border=E4E2E2&ring=748FAC&fire=ECCDA2&currStreakLabel=E4E2E2" alt="streak"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&show_icons=true&locale=en&layout=compact&bg_color=1f1d29&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en&layout=compact&bg_color=1f1d29&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&theme=dark&currStreakNumber=EB6F92&background=1f1d29&border=FAF4ED&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="streak"/></p>
 </a>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&" alt="thatonecalculator" /></p> -->
