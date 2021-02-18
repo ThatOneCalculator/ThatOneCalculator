@@ -20,5 +20,5 @@
 <br>
 <a href="https://github.com/ThatOneCalculator/"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&show_icons=true&locale=en&layout=compact&theme=nord" alt="thatonecalculator"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en&layout=compactz&theme=onedark" alt="thatonecalculator"/></p></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en&layout=compactz&theme=nord" alt="thatonecalculator"/></p></a>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&" alt="thatonecalculator" /></p> -->
