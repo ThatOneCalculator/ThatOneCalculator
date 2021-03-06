@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **multiple Discord bots, featuring [my main bot LiterallyNoBot!](https://top.gg/bot/646156214237003777)**
 
-- 🌱 I’m currently learning **Haxe, TypeScript, Electron, and Vue.js**
+- 🌱 I’m currently learning **Haxe, TypeScript, and Electron**
 
 - 👯 I’m collaborating on **[the Rosé Pine project!](https://github.com/rose-pine)**
 
