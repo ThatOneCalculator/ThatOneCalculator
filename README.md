@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **multiple Discord bots, featuring [my main bot LiterallyNoBot!](https://top.gg/bot/646156214237003777)**
 
-- 🌱 I’m currently learning **Haxe, TypeScript, and Electron**
+- 🌱 I’m currently learning **Haxe, TypeScript, and Vue**
 
-- 👯 I’m collaborating on **[the Rosé Pine project!](https://github.com/rose-pine)**
+- 👯 I’m collaborating on **[the Rosé Pine project!](https://github.com/rose-pine)** and **[Friday Night Faxxin'](https://github.com/thatonecalculator/friday-night-faxxin)**
 
 
 <a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/454847501787463680.png" alt="thatonecalculator"/></a>
