@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Rust, Haxe, and Svelte**
 
-- 👯 I’m collaborating on **[the Rosé Pine project!](https://github.com/rose-pine)** and **[Friday Night Faxxin'](https://github.com/thatonecalculator/friday-night-faxxin)**
+- 👯 I’m collaborating on **[the Rosé Pine project](https://github.com/rose-pine)** and **[Friday Night Faxxin'](https://github.com/thatonecalculator/friday-night-faxxin)**
 
 
 <a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/454847501787463680.png" alt="thatonecalculator"/></a>
