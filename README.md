@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **FNF mods and learning**
+- 🔭 I’m currently working on **FNF mods and learning more languages**
 
 - 🌱 I’m currently learning **Rust, Haxe, and Svelte**
 
