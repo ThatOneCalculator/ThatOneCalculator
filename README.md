@@ -8,9 +8,9 @@
 </p>
 
 
-- 🔭 I’m currently working on **multiple Discord bots, featuring [my main bot LiterallyNoBot!](https://top.gg/bot/646156214237003777)**
+- 🔭 I’m currently working on **FNF mods and learning**
 
-- 🌱 I’m currently learning **Haxe, TypeScript, and Vue**
+- 🌱 I’m currently learning **Rust, Haxe, and Svelte**
 
 - 👯 I’m collaborating on **[the Rosé Pine project!](https://github.com/rose-pine)** and **[Friday Night Faxxin'](https://github.com/thatonecalculator/friday-night-faxxin)**
 
