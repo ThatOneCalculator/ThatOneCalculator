@@ -8,9 +8,9 @@
 </p>
 
 
-- 🔭 I’m currently working on **FNF mods and Linux projects**
+- 🔭 I’m currently working on **Linux projects + a secret project 🤫**
 
-- 🌱 I’m currently learning **Rust, Haxe, and Svelte**
+- 🌱 I’m currently learning **Bevy and Svelte**
 
 - 👯 I’m collaborating on **[the Rosé Pine project](https://github.com/rose-pine)** and **[Friday Night Faxxin'](https://github.com/thatonecalculator/friday-night-faxxin)**
 
