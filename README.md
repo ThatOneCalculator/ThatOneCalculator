@@ -7,14 +7,6 @@
 <a href="mailto:kainoa@t1c.dev" target="blank"><img src="https://shields.io/badge/send_me-email-d44a3c?logo=gmail&style=for-the-badge" alt="kainoa@t1c.dev"/></a> 
 </p>
 
-
-- 🔭 I’m currently working on **Linux projects + a secret project 🤫**
-
-- 🌱 I’m currently learning **Bevy and Svelte**
-
-- 👯 I’m collaborating on **[the Rosé Pine project](https://github.com/rose-pine)** and **[Friday Night Faxxin'](https://github.com/thatonecalculator/friday-night-faxxin)**
-
-
 <a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/454847501787463680.png" alt="thatonecalculator"/></a>
 <br>
 <a href="https://github.com/ThatOneCalculator/">
