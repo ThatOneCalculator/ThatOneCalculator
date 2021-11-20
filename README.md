@@ -3,8 +3,8 @@
 
 <p align="left">
 <a href="https://voring.me/@thatonecalculator" target="blank"><img src="https://shields.io/badge/follow_me_on-mastodon-3088D4?logo=mastodon&style=for-the-badge" alt="voring.me (mastodon)"/></a>
+<a href="https://app.revolt.chat/invite/3jE9DgmF" target="blank"><img src="https://shields.io/badge/join_my-revolt-FC4454?logo=rakuten&style=for-the-badge" alt="revolt"/></a>
 <a href="https://matrix.to/#/#calc:matrix.murm.gay" target="blank"><img src="https://shields.io/badge/join_my-matrix_space-0DBD8B?logo=element&style=for-the-badge" alt="matrix"/></a>
-<a href="https://app.revolt.chat/invite/3jE9DgmF" target="blank"><img src="https://shields.io/badge/join_my-revolt-FC4454?logo=rakuten&style=for-the-badge" alt="revolt"/></a> 
 <a href="https://discord.gg/mG94DqX" target="blank"><img src="https://shields.io/badge/join_my-discord-5865F2?logo=discord&style=for-the-badge" alt="discord"/></a>
 <a href="https://osu.ppy.sh/u/that1calculator" target="blank"><img src="https://shields.io/badge/see_my-osu_profile-FF66AA?logo=osu&style=for-the-badge" alt="osu"/></a> 
 <a href="https://liberapay.com/ThatOneCalculator/donate" target="blank"><img src="https://shields.io/badge/donate_with-liberapay-F6C915?logo=liberapay&style=for-the-badge" alt="librepay"/></a> 
