@@ -13,8 +13,8 @@
 </p>
 
 <a href="https://github.com/ThatOneCalculator/">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&langs_count=10&exclude_repo=friday-night-faxxin&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator" height="200px"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator" height="200px"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&langs_count=10&exclude_repo=friday-night-faxxin&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator" height="192px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator" height="192px"/>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=FAF4ED&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="streak"/></p> -->
 </a>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatonecalculator&" alt="thatonecalculator" /></p> -->
