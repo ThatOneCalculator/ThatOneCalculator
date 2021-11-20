@@ -12,8 +12,6 @@
 <a href="https://calc.tobira.io/xmpp.html" target="blank"><img src="https://shields.io/badge/contact_me_on-xmpp-002B5C?logo=xmpp&style=for-the-badge" alt="thatonecalculator@404.city"/></a> 
 </p>
 
-<a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/454847501787463680.png" alt="thatonecalculator"/></a>
-<br>
 <a href="https://github.com/ThatOneCalculator/">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&langs_count=10&exclude_repo=friday-night-faxxin&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator"/>
