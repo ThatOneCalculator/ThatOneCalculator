@@ -2,7 +2,7 @@
 <h3 align="center">An 18 year old fullstack developer from Cali. See my portfolio at https://t1c.dev!</h3>
 
 <p align="left">
-<a href="https://voring.me/@thatonecalculator" target="blank" rel="me"><img src="https://shields.io/badge/follow_me_on-mastodon-3088D4?logo=mastodon&style=for-the-badge" alt="voring.me (mastodon)"/></a>
+<a href="https://voring.me/@thatonecalculator" rel="me"><img src="https://shields.io/badge/follow_me_on-mastodon-3088D4?logo=mastodon&style=for-the-badge" alt="voring.me (mastodon)"/></a>
 <a href="https://en.pronouns.page/@that1calculator" target="blank"><img src="https://shields.io/badge/see_my-pronouns-C71585?logo=undertale&style=for-the-badge" alt="pronouns.page"/></a> 
 <a href="https://app.revolt.chat/invite/3jE9DgmF" target="blank"><img src="https://shields.io/badge/join_my-revolt-FC4454?logo=rakuten&style=for-the-badge" alt="revolt"/></a>
 <a href="https://osu.ppy.sh/u/that1calculator" target="blank"><img src="https://shields.io/badge/see_my-osu_profile-FF66AA?logo=osu&style=for-the-badge" alt="osu"/></a> 
