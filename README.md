@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?user_id=44733677)
 <h1 align="center">Hi, I'm Kainoa, aka ThatOneCalculator! 👋</h1>
 <h3 align="center">An 18 year old fullstack developer from Cali. See my portfolio at https://t1c.dev!</h3>
 
