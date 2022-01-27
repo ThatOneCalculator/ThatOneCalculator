@@ -20,3 +20,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&langs_count=10&exclude_repo=friday-night-faxxin&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator" height="192px"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator" height="192px"/>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=thatonecalculator&bg_color=1f1d2e&color=31748f&line=ebbcba&point=e0def4" alt="activiity" width=800 /></p></a>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthatonecalculator%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
