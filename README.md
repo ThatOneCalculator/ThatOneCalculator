@@ -13,6 +13,8 @@
 <a href="mailto:kainoa@t1c.dev" target="blank"><img src="https://shields.io/badge/send_me-email-d44a3c?logo=gmail&style=for-the-badge" alt="kainoa@t1c.dev"/></a>
 <a href="https://calc.tobira.io/xmpp.html" target="blank"><img src="https://shields.io/badge/contact_me_on-xmpp-002B5C?logo=xmpp&logoColor=002B5C&style=for-the-badge" alt="thatonecalculator@404.city"/></a>
 <a href="https://gitdab.com/thatonecalculator" target="blank"><img src="https://shields.io/badge/mirrored_on-gitdab-F494A3?logo=gitea&logoColor=F494A3&style=for-the-badge" alt="gitea (gitdab)"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthatonecalculator%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20views%20since%20Jan%2026%202022&edge_flat=true"/></a>
+
 </p>
 </p>
 
@@ -20,5 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatonecalculator&langs_count=10&exclude_repo=friday-night-faxxin&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator" height="192px"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thatonecalculator&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="thatonecalculator" height="192px"/>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=thatonecalculator&bg_color=1f1d2e&color=31748f&line=ebbcba&point=e0def4" alt="activiity" width=800 /></p></a>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthatonecalculator%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20views%20since%20Jan%2026%202022&edge_flat=true"/></a>
