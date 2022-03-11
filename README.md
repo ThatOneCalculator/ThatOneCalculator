@@ -10,7 +10,7 @@
 	  <br>
   </a>
   <a align="center" href="https://blog.t1c.dev/" target="blank"><img src="https://shields.io/badge/read_my-blog-EEE?logo=write.as&logoColor=EEE&style=for-the-badge" alt="blog"/></a>
-  <a align="center" href="https://app.revolt.chat/invite/3jE9DgmF" target="blank"><img src="https://custom-icon-badges.herokuapp.com/badge/join_my-revolt-FC4454?logo=revolt&logoColor=FC4454&style=for-the-badge" alt="revolt"/></a>
+  <a align="center" href="https://app.revolt.chat/invite/3jE9DgmF" target="blank"><img src="https://custom-icon-badges.herokuapp.com/badge/join_my-revolt-FC4454?logo=revoltchat&logoColor=FC4454&style=for-the-badge" alt="revolt"/></a>
   <a align="center" href="https://liberapay.com/ThatOneCalculator/donate" target="blank"><img src="https://shields.io/badge/donate_with-liberapay-F6C915?logo=liberapay&style=for-the-badge" alt="librepay"/></a>
 	<br>
   <a href="https://hits.seeyoufarm.com">
