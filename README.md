@@ -16,7 +16,7 @@
   </a>
   <br>
 	<a href="https://t1c.dev">
-		<img src="https://skillicons.dev/icons?i=c,css,git,html,java,js,md,mongodb,nextjs,nodejs,postgres,prisma,py,r,react,redis,rust,ts,vim" />
+		<img src="https://skillicons.dev/icons?i=c,css,git,html,java,js,md,mongodb,nextjs,nodejs,postgres,prisma,py,r,rust,ts,vim" />
 	</a>
   <!--
   <a href="https://github.com/thatonecalculator?tab=repositories">
