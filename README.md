@@ -18,7 +18,7 @@
   </a>
   <br>
 	<a href="https://t1c.dev">
-		<img src="https://skillicons.dev/icons?i=bash,c,css,git,haxe,html,java,js,jquery,latex,linux,md,mongodb,nextjs,nginx,nodejs,postgres,prisma,py,r,react,redis,regex,remix,rust,solidity,svelte,ts,vscode" alt="Skills: bash,c,css,git,haxe,html,java,js,jquery,latex,linux,md,mongodb,nextjs,nginx,nodejs,postgres,prisma,py,r,react,redis,regex,remix,rust,solidity,svelte,ts,vscode"/>
+		<img src="https://skillicons.dev/icons?i=bash,c,css,git,haxe,html,java,js,jquery,latex,linux,md,mongodb,nextjs,nginx,nodejs,postgres,prisma,py,r,react,redis,regex,remix,rust,solidity,svelte,ts,vim,vscode" alt="Skills: bash,c,css,git,haxe,html,java,js,jquery,latex,linux,md,mongodb,nextjs,nginx,nodejs,postgres,prisma,py,r,react,redis,regex,remix,rust,solidity,svelte,ts,vim,vscode"/>
 	</a>
   <!--
   <a href="https://github.com/thatonecalculator?tab=repositories">
