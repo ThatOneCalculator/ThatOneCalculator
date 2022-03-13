@@ -25,11 +25,9 @@ Web frameworks<br>
 Databases<br>
 		<img src="https://skillicons.dev/icons?i=mongo,redis,prisma,postgres&perline=13"/><br><br>
 Technologies<br>
-		<img src="https://skillicons.dev/icons?i=activitypub,discord,bots,regex&perline=13"/><br><br>
+		<img src="https://skillicons.dev/icons?i=activitypub,discord,bots,regex,unreal&perline=13"/><br><br>
 Dev tools<br>
 		<img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13"/><br><br>
-Gamedev<br>
-		<img src="https://skillicons.dev/icons?i=haxeflixel,unreal,unity&perline=13"/><br><br>
 OSes<br>
 		<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13"/>
 			</h3>
