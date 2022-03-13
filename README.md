@@ -2,7 +2,7 @@
 <a rel="me" href="https://voring.me/@thatonecalculator"></a>
 <h1 align="center">Hi, I'm Kainoa, aka ThatOneCalculator! 👋</h1>
 <h3 align="center">An 18 year old fullstack developer from Cali. See my portfolio at https://t1c.dev!</h3>
-<p align="center">
+<h3 align="center">
    <a align="center" rel="me" href="https://stop.voring.me/@thatonecalculator">
    <img src="https://custom-icon-badges.herokuapp.com/badge/follow_on-misskey-acea31?logoColor=acea31&style=for-the-badge&logo=misskey" alt="stop.voring.me (misskey)" height="40px"/>
    <br>
@@ -15,16 +15,16 @@
    </a>
 <p align="center">
    Programming languages<br>
-   <img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,nodejs,py,r,rust,solidity,ts&perline=6" height="80rem"/><br><br>
+   <img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,nodejs,py,r,rust,solidity,ts&perline=6"/><br><br>
    Document and design<br>
-   <img src="https://skillicons.dev/icons?i=css,html,figma,latex,md,sass,svg&perline=13" height="40rem"/><br><br>
+   <img src="https://skillicons.dev/icons?i=css,html,figma,latex,md,pr,sass,svg&perline=4" /><br><br>
    Web frameworks<br>
-   <img src="https://skillicons.dev/icons?i=jquery,nextjs,remix,svelte&perline=13" height="40rem"/><br><br>
+   <img src="https://skillicons.dev/icons?i=jquery,nextjs,remix,svelte&perline=13" /><br><br>
    Technologies&emsp;&emsp;&emsp;&emsp;Databases<br>
-   <img src="https://skillicons.dev/icons?i=discord,bots,unreal&perline=13" height="40rem"/>&emsp;<img src="https://skillicons.dev/icons?i=mongo,prisma,postgres&perline=13" height="40rem"/><br><br>
+   <img src="https://skillicons.dev/icons?i=discord,bots,unreal&perline=13" />&emsp;<img src="https://skillicons.dev/icons?i=mongo,prisma,postgres&perline=13" /><br><br>
    Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;OSes<br>
-      <img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13" height="40rem"/>&emsp;<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13" height="40rem"/>
-</p>
+      <img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13" />&emsp;<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13" />
+</h3>
 </p>
 <!--
    <a href="https://github.com/thatonecalculator?tab=repositories">
