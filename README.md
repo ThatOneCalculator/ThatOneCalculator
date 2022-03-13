@@ -15,24 +15,25 @@
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthatonecalculator%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20views%20since%20Jan%2026%202022&edge_flat=true"/>
   </a>
-	<h3>
-		Programming languages
-	</h3>
-	<img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,nodejs,py,r,rust,solidity,ts&perline=20"/>
-	<h3>Document and design</h3>
-	<img src="https://skillicons.dev/icons?i=css,html,figma,latex,md,sass,svg&perline=13"/>
-	<h3>Web frameworks</h3>
-	<img src="https://skillicons.dev/icons?i=jquery,nextjs,react,remix,svelte&perline=13"/>
-	<h3>Databases</h3>
-	<img src="https://skillicons.dev/icons?i=mongo,redis,prisma,postgres&perline=13"/>
-	<h3>Technologies</h3>
-	<img src="https://skillicons.dev/icons?i=activitypub,discord,bots,regex&perline=13"/>
-	<h3>Dev tools</h3>
-	<img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13"/>
-	<h3>Gamedev</h3>
-	<img src="https://skillicons.dev/icons?i=haxeflixel,unreal,unity&perline=13"/>
-	<h3>OSes</h3>
-	<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13"/>
+	<h3 align="center">
+		Programming languages<br>
+	<img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,nodejs,py,r,rust,solidity,ts&perline=6"/><br>
+	Document and design<br>
+	<img src="https://skillicons.dev/icons?i=css,html,figma,latex,md,sass,svg&perline=13"/><br>
+Web frameworks<br>
+		<img src="https://skillicons.dev/icons?i=jquery,nextjs,react,remix,svelte&perline=13"/><br>
+Databases<br>
+		<img src="https://skillicons.dev/icons?i=mongo,redis,prisma,postgres&perline=13"/><br>
+Technologies<br>
+		<img src="https://skillicons.dev/icons?i=activitypub,discord,bots,regex&perline=13"/><br>
+Dev tools<br>
+		<img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13"/><br>
+Gamedev<br>
+		<img src="https://skillicons.dev/icons?i=haxeflixel,unreal,unity&perline=13"/><br>
+OSes<br>
+		<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13"/><br>
+			</h3>
+
 </p>
 
 
