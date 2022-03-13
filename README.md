@@ -13,7 +13,7 @@
    <a href="https://hits.seeyoufarm.com">
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthatonecalculator%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20views%20since%20Jan%2026%202022&edge_flat=true"/>
    </a>
-<h3 align="center">
+<p align="center">
    Programming languages<br>
    <img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,nodejs,py,r,rust,solidity,ts&perline=6"/><br><br>
    Document and design<br>
@@ -24,9 +24,9 @@
    <img src="https://skillicons.dev/icons?i=activitypub,discord,bots,unreal&perline=13"/>&emsp;<img src="https://skillicons.dev/icons?i=mongo,redis,prisma,postgres&perline=13"/><br><br>
    Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;OSes<br>
    <p>
-   <img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13" max-width: 10px/>&emsp;<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13"/>
+   <img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13" height="40rem"/>&emsp;<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13"/>
       </p>
-</h3>
+</p>
 </p>
 <!--
    <a href="https://github.com/thatonecalculator?tab=repositories">
