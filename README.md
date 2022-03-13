@@ -21,7 +21,7 @@
    Web frameworks<br>
    <img src="https://skillicons.dev/icons?i=jquery,nextjs,react,remix,svelte&perline=13"/><br><br>
    Technologies&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Databases<br>
-   <img src="https://skillicons.dev/icons?i=activitypub,discord,bots,regex,unreal&perline=13"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=mongo,redis,prisma,postgres&perline=13"/><br><br>
+   <img src="https://skillicons.dev/icons?i=activitypub,discord,bots,unreal&perline=13"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=mongo,redis,prisma,postgres&perline=13"/><br><br>
    Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;OSes<br>
    <img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13"/>&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13"/>
 </h3>
