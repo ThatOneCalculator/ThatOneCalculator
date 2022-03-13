@@ -18,10 +18,12 @@
   </a>
 	
 <h3>Programming languages</h3>
-<img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,jquery,nextjs,nim,nodejs,py,r,remix,rust,solidity,svelte,ts&perline=9"/>
+<img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,nodejs,py,r,rust,solidity,ts&perline=6"/>
 <!-- https://skillicons.dev/icons?i=activitypub,aiscript,bash,bsd,c,css,discord,bots,git,haxe,html,java,js,jquery,latex,linux,md,mongodb,nextjs,nginx,nim,nodejs,plan9,postgres,prisma,py,r,redis,regex,remix,rust,sass,solidity,svelte,svg,ts,unreal,vim,vscode&perline=13 -->
 <h3>Document languages</h3>
 <img src="https://skillicons.dev/icons?i=html,latex,md&perline=13"/>
+<h3>Web frameworks</h3>
+<img src="https://skillicons.dev/icons?i=jquery,nextjs,react,remix,svelte&perline=13"/>
 <h3>Databases</h3>
 <img src="https://skillicons.dev/icons?i=mongo,redis,prisma,postgres&perline=13"/>
 <h3>Technologies</h3>
@@ -30,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13"/>
 <h3>Design</h3>
 <img src="https://skillicons.dev/icons?i=css,figma,sass,svg&perline=13"/>
-<h3>Game creation</h3>
+<h3>Gamedev</h3>
 <img src="https://skillicons.dev/icons?i=haxeflixel,unreal,unity&perline=13"/>
 <h3>OSes</h3>
 <img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13"/>
