@@ -19,19 +19,19 @@
 		Programming languages<br>
 	<img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,nodejs,py,r,rust,solidity,ts&perline=6"/><br>
 	Document and design<br>
-	<img src="https://skillicons.dev/icons?i=css,html,figma,latex,md,sass,svg&perline=13"/><br>
+	<img src="https://skillicons.dev/icons?i=css,html,figma,latex,md,sass,svg&perline=13"/><br><br>
 Web frameworks<br>
-		<img src="https://skillicons.dev/icons?i=jquery,nextjs,react,remix,svelte&perline=13"/><br>
+		<img src="https://skillicons.dev/icons?i=jquery,nextjs,react,remix,svelte&perline=13"/><br><br>
 Databases<br>
-		<img src="https://skillicons.dev/icons?i=mongo,redis,prisma,postgres&perline=13"/><br>
+		<img src="https://skillicons.dev/icons?i=mongo,redis,prisma,postgres&perline=13"/><br><br>
 Technologies<br>
-		<img src="https://skillicons.dev/icons?i=activitypub,discord,bots,regex&perline=13"/><br>
+		<img src="https://skillicons.dev/icons?i=activitypub,discord,bots,regex&perline=13"/><br><br>
 Dev tools<br>
-		<img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13"/><br>
+		<img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13"/><br><br>
 Gamedev<br>
-		<img src="https://skillicons.dev/icons?i=haxeflixel,unreal,unity&perline=13"/><br>
+		<img src="https://skillicons.dev/icons?i=haxeflixel,unreal,unity&perline=13"/><br><br>
 OSes<br>
-		<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13"/><br>
+		<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13"/>
 			</h3>
 
 </p>
