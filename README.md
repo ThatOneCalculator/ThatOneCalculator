@@ -23,7 +23,9 @@
    Technologies&emsp;&emsp;&emsp;&emsp;Databases<br>
    <img src="https://skillicons.dev/icons?i=activitypub,discord,bots,unreal&perline=13"/>&emsp;<img src="https://skillicons.dev/icons?i=mongo,redis,prisma,postgres&perline=13"/><br><br>
    Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;OSes<br>
-   <img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13"/>&emsp;<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13"/>
+   <p>
+   <img src="https://skillicons.dev/icons?i=git,vscode,vim&perline=13" max-width: 10px/>&emsp;<img src="https://skillicons.dev/icons?i=linux,bsd,plan9&perline=13"/>
+      </p>
 </h3>
 </p>
 <!--
