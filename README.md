@@ -17,7 +17,7 @@
    Programming languages<br>
    <img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,nodejs,py,r,rust,solidity,ts&perline=6"/><br><br>
    Document and design<br>
-   <img src="https://skillicons.dev/icons?i=css,html,figma,latex,md,pr,sass,svg" /><br><br>
+   <img src="https://skillicons.dev/icons?i=css,html,figma,latex,md,pr,svg" /><br><br>
    Web frameworks<br>
    <img src="https://skillicons.dev/icons?i=jquery,nextjs,remix,svelte&perline=13" /><br><br>
    Technologies&emsp;&emsp;&emsp;&emsp;Databases<br>
