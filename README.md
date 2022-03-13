@@ -19,7 +19,7 @@
    Document and design<br>
    <img src="https://skillicons.dev/icons?i=css,html,figma,latex,md,sass,svg&perline=13" height="40rem"/><br><br>
    Web frameworks<br>
-   <img src="https://skillicons.dev/icons?i=jquery,nextjs,react,remix,svelte&perline=13" height="40rem"/><br><br>
+   <img src="https://skillicons.dev/icons?i=jquery,nextjs,remix,svelte&perline=13" height="40rem"/><br><br>
    Technologies&emsp;&emsp;&emsp;&emsp;Databases<br>
    <img src="https://skillicons.dev/icons?i=discord,bots,unreal&perline=13" height="40rem"/>&emsp;<img src="https://skillicons.dev/icons?i=mongo,prisma,postgres&perline=13" height="40rem"/><br><br>
    Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;OSes<br>
