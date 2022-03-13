@@ -17,7 +17,7 @@
   </a>
 	<h3 align="center">
 		Programming languages<br>
-	<img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,nodejs,py,r,rust,solidity,ts&perline=6"/><br><br>
+	<img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,nodejs,py,r,rust,solidity,ts&perline=15"/><br><br>
 	Document and design<br>
 	<img src="https://skillicons.dev/icons?i=css,html,figma,latex,md,sass,svg&perline=13"/><br><br>
 Web frameworks<br>
