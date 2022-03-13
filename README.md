@@ -12,14 +12,14 @@
    <a align="center" href="https://liberapay.com/ThatOneCalculator/donate" target="blank"><img src="https://shields.io/badge/donate_with-liberapay-F6C915?logo=liberapay&style=for-the-badge" alt="librepay"/></a><br>
    <a href="https://hits.seeyoufarm.com">
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthatonecalculator%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20views%20since%20Jan%2026%202022&edge_flat=true"/>
-   </a>
+   </a><br><br>
 <p align="center">
    Programming languages<br>
    <img src="https://skillicons.dev/icons?i=aiscript,bash,c,haxe,java,js,nodejs,py,r,rust,solidity,ts&perline=6"/><br><br>
+   Frontend frameworks<br>
+   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nextjs,remix,svelte&perline=13" /><br><br>
    Document and design<br>
-   <img src="https://skillicons.dev/icons?i=css,html,figma,latex,md,pr,svg" /><br><br>
-   Web frameworks<br>
-   <img src="https://skillicons.dev/icons?i=jquery,nextjs,remix,svelte&perline=13" /><br><br>
+   <img src="https://skillicons.dev/icons?i=figma,latex,md,pr,svg" /><br><br>
    Technologies&emsp;&emsp;&emsp;&emsp;Databases<br>
    <img src="https://skillicons.dev/icons?i=discord,bots,unreal&perline=13" />&emsp;<img src="https://skillicons.dev/icons?i=mongo,prisma,postgres&perline=13" /><br><br>
    Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;OSes<br>
