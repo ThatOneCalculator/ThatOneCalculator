@@ -14,6 +14,7 @@
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthatonecalculator%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20views%20since%20Jan%2026%202022&edge_flat=true"/>
    </a><br><br>
 <p align="center">
+    <a href="https://github.com/ThatOneCalculator?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
    <details>
       <summary>Skills</summary>
       
@@ -28,9 +29,4 @@
    Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;OSes<br>
       <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" /></a>&emsp;<a href="https://kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a> <a href="https://bsd.org/"><img src="https://skillicons.dev/icons?i=bsd" /></a> <a href="https://9p.io/plan9/"><img src="https://skillicons.dev/icons?i=plan9" /></a> 
 </h3>
-   </details>
-   <details>
-      <summary>Metrics</summary>
-   
-   </details>
 </p>
