@@ -14,6 +14,9 @@
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthatonecalculator%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20views%20since%20Jan%2026%202022&edge_flat=true"/>
    </a><br><br>
 <p align="center">
+   <details>
+      <summary>Skills</summary>
+      
    Programming languages<br>
    <a href="https://github.com/syuilo/aiscript"><img src="https://skillicons.dev/icons?i=aiscript" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a> <a href="https://www.iso.org/standard/74528.html"><img src="https://skillicons.dev/icons?i=c" /></a> <a href="https://haxe.org/"><img src="https://skillicons.dev/icons?i=haxe" /></a> <a href="https://java.com/"><img src="https://skillicons.dev/icons?i=java" /></a> <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=js" /></a><br><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a> <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" /></a> <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" /></a> <a href="https://soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" /></a><br><br>
    Frontend frameworks<br>
@@ -25,9 +28,9 @@
    Dev tools&emsp;&emsp;&emsp;&emsp;&emsp;OSes<br>
       <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" /></a>&emsp;<a href="https://kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a> <a href="https://bsd.org/"><img src="https://skillicons.dev/icons?i=bsd" /></a> <a href="https://9p.io/plan9/"><img src="https://skillicons.dev/icons?i=plan9" /></a> 
 </h3>
+   </details>
+   <details>
+      <summary>Metrics</summary>
+   
+   </details>
 </p>
-<!--
-   <a href="https://github.com/thatonecalculator?tab=repositories">
-     <img src="http://ghmetrics.voring.me/thatonecalculator?template=classic&isocalendar=1&languages=1&reactions=1&people=1&stargazers=1&activity=1&achievements=1&discussions=1&lines=1&traffic=1&pagespeed=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.ignored=c%2C%20haxe%2C%20cpp%2C%20c%2B%2B&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&stargazers.charts.type=classic&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=helper%2C%20explorer&discussions.categories=true&discussions.categories.limit=0&repositories.featured=ThatOneCalculator%2FAmong-Us-Dumpy-Gif-Maker%2C%20ThatOneCalculator%2FDiscordRPCMaker%2C%20%20rose-pine%2Frose-pine-theme%2C%20ThatOneCalculator%2FNerdFetch%2C%20ThatOneCalculator%2Fbspwm-dotfiles&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FLos_Angeles&config.twemoji=true)](https://github.com/ThatOneCalculator?tab=repositories">
-   </a> -->
-
