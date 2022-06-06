@@ -16,13 +16,13 @@
 <p align="center">
    <details> 
       <summary>
-         <kbd><h1>View Metrics</h1><kbd>
+         <kbd><h3>View Metrics</h3><kbd>
       </summary>
     <a href="https://github.com/ThatOneCalculator?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
    </details>
    <details>
       <summary>
-         <kbd><h1>View Skills</h1><kbd>
+         <kbd><h3>View Skills</h3><kbd>
       </summary>
       
    Programming languages<br>
