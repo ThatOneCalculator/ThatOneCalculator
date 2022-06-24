@@ -1,7 +1,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=44733677)
 <a rel="me" href="https://voring.me/@thatonecalculator"></a>
 <h1 align="center">Hi, I'm Kainoa, aka ThatOneCalculator! 👋</h1>
-<h3 align="center">An 18 year old fullstack developer from Cali. See my portfolio at https://t1c.dev!</h3>
+<h3 align="center">A 19 year old fullstack developer from Cali. See my portfolio at https://t1c.dev!</h3>
 <h3 align="center">
    <a align="center" rel="me" href="https://stop.voring.me/@thatonecalculator">
    <img src="https://custom-icon-badges.herokuapp.com/badge/follow_on-misskey-acea31?logoColor=acea31&style=for-the-badge&logo=misskey" alt="stop.voring.me (misskey)" height="40px"/>
