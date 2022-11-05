@@ -2482,7 +2482,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="99.43249999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="99.47125000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2505,12 +2505,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.83k out of 352m repositories</span>
+                                    <span class="gh">ranked 9.82k out of 352m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">3566</div>
+                                        <div class="value">3567</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 3566 stars</div>
+                                <div class="text">Maintaining a repository with 3567 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2864,7 +2864,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2022, 12:38:42 (timezone America/Los_Angeles) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 5 Nov 2022, 13:24:40 (timezone America/Los_Angeles) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
