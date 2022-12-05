@@ -2457,7 +2457,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.16999999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.20875000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2482,10 +2482,10 @@
                                     maintainer
                                     <span class="gh">ranked 8.04k out of 361m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">4256</div>
+                                        <div class="value">4257</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 4256 stars</div>
+                                <div class="text">Maintaining a repository with 4257 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2839,7 +2839,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2022, 12:39:08 (timezone America/Los_Angeles) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 5 Dec 2022, 13:16:35 (timezone America/Los_Angeles) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
