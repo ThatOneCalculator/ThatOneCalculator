@@ -4,7 +4,7 @@
 <h3 align="center">A 19 year old fullstack developer from Cali. See my portfolio at https://t1c.dev!</h3>
 <h3 align="center">
    <a align="center" rel="me" href="https://stop.voring.me/@thatonecalculator">
-   <img src="https://custom-icon-badges.herokuapp.com/badge/follow_on-calckey-31748f?logoColor=acea31&style=for-the-badge&logo=calckey" alt="stop.voring.me (misskey)" height="40px"/>
+   <img src="https://custom-icon-badges.herokuapp.com/badge/follow_on-calckey-31748f?style=for-the-badge&logo=calckey" alt="stop.voring.me (calckey)" height="40px"/>
    <br>
    </a>
    <a align="center" href="https://blog.t1c.dev/" target="blank"><img src="https://shields.io/badge/read_my-blog-EEE?logo=write.as&logoColor=EEE&style=for-the-badge" alt="blog"/></a>
