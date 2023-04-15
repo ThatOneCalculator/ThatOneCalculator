@@ -2461,7 +2461,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.21k out of 393m repositories</span>
+                                    <span class="gh">ranked 4.21k out of 394m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">7599</div>
                                     </div>
@@ -2686,7 +2686,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 98k out of 393m repositories</span>
+                                    <span class="gh">ranked 98k out of 394m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">115</div>
                                     </div>
@@ -2891,7 +2891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2023, 23:19:56 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Apr 2023, 23:37:57 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
