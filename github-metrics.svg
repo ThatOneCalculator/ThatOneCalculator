@@ -2380,7 +2380,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 77.4k out of 116m users</span>
+                                    <span class="gh">ranked 80.4k out of 116m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">144</div>
                                     </div>
@@ -2886,7 +2886,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2023, 11:19:35 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 May 2023, 11:37:56 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
