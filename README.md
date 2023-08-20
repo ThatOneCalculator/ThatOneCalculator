@@ -3,8 +3,8 @@
 <h1 align="center">Hi, I'm Kainoa, aka ThatOneCalculator! 👋</h1>
 <h3 align="center">A 20 year old fullstack developer from Cali. Moved my code to Codeberg: https://codeberg.org/thatonecalculator</h3>
 <h3 align="center">
-   <a align="center" rel="me" href="https://stop.voring.me/@thatonecalculator">
-   <img src="https://custom-icon-badges.herokuapp.com/badge/follow_on-calckey-31748f?style=for-the-badge&logo=calckey" alt="stop.voring.me (calckey)" height="40px"/>
+   <a align="center" rel="me" href="https://firefish.social/@kainoa">
+   <img src="https://custom-icon-badges.herokuapp.com/badge/follow_on-firefish-31748f?style=for-the-badge&logo=firefish" alt="firefish.social" height="40px"/>
    <br>
    </a>
    <a align="center" href="https://blog.t1c.dev/" target="blank"><img src="https://shields.io/badge/read_my-blog-EEE?logo=write.as&logoColor=EEE&style=for-the-badge" alt="blog"/></a>
