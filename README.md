@@ -1,7 +1,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=44733677)
 <a rel="me" href="https://voring.me/@thatonecalculator"></a>
 <h1 align="center">Hi, I'm Kainoa, aka ThatOneCalculator! 👋</h1>
-<h3 align="center">A 20 year old fullstack developer from Cali. Moved my code to Codeberg: https://codeberg.org/thatonecalculator</h3>
+<h3 align="center">A 20 year old fullstack developer from Cali.</h3>
 <h3 align="center">
    <a align="center" href="https://liberapay.com/ThatOneCalculator/donate" target="blank"><img src="https://shields.io/badge/donate_with-liberapay-F6C915?logo=liberapay&style=for-the-badge" alt="librepay"/></a><br>
    <a href="https://hits.seeyoufarm.com">
