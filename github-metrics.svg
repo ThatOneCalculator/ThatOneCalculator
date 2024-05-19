@@ -2396,7 +2396,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 47.1k out of 136m users</span>
+                                    <span class="gh">ranked 47.1k out of 134m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">210</div>
                                     </div>
@@ -2525,7 +2525,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 20.6k out of 136m users</span>
+                                    <span class="gh">ranked 20.6k out of 134m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">401</div>
                                     </div>
@@ -2902,7 +2902,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2024, 23:38:36 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 May 2024, 00:14:56 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
