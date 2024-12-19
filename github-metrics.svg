@@ -2675,7 +2675,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 116k out of 226m repositories</span>
+                                    <span class="gh">ranked 116k out of 219m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">114</div>
                                     </div>
@@ -2716,7 +2716,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 48.9k out of 226m repositories</span>
+                                    <span class="gh">ranked 48.9k out of 219m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1054</div>
                                     </div>
@@ -3005,7 +3005,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2024, 14:40:46 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Dec 2024, 15:19:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
