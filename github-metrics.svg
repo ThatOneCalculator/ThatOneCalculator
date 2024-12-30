@@ -1326,10 +1326,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.229508196721312)">
+                            <g transform="translate(-6.8, 8.131147540983607)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7704918032786887 0,2.7704918032786887 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7704918032786887 1.7,3.7704918032786887 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.8688524590163933 0,2.8688524590163933 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.8688524590163933 1.7,3.8688524590163933 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.311475409836065)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2691,7 +2691,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 117k out of 231m repositories</span>
+                                    <span class="gh">ranked 117k out of 228m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">113</div>
                                     </div>
@@ -2732,7 +2732,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 49.1k out of 231m repositories</span>
+                                    <span class="gh">ranked 49.1k out of 228m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1054</div>
                                     </div>
@@ -3021,7 +3021,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Dec 2024, 03:38:10 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Dec 2024, 04:39:16 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
