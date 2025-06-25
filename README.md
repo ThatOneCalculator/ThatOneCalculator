@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=44733677)
 <h1 align="center">Hi, I'm Kainoa, aka ThatOneCalculator! 👋</h1>
-<h3 align="center">A 21 year old fullstack developer from Cali. https://t1c.dev</h3>
+<h3 align="center">A 22 year old fullstack developer from Cali. https://t1c.dev</h3>
 <h3 align="center">
    <a align="center" href="https://liberapay.com/ThatOneCalculator/donate" target="blank"><img src="https://shields.io/badge/donate_with-liberapay-F6C915?logo=liberapay&style=for-the-badge" alt="librepay"/></a><br>
 <!--    <a href="https://hits.seeyoufarm.com">
